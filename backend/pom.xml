@@ -46,11 +46,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> db7ff362e53fc5daeaa2fca025be7dba8a2e86b0
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
